@@ -1,6 +1,6 @@
 # Bank Management System
 
-Bank Management System Project is developed in C++.
+Bank Management System Project is developed in C++.Its an application of Banking providing minimal features of a banking system.
 
 It has got features like:-
 
