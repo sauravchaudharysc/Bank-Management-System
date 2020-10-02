@@ -1,4 +1,4 @@
-# Bank Management System
+# Bank Management System-The Virtual Bank
 
 Bank Management System Project is developed in C++.Its an application of Banking providing minimal features of a banking system.
 
